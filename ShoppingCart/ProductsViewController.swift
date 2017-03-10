@@ -99,7 +99,6 @@ class ProductsViewController: UIViewController {
         }
 
         appDelegate.saveContext()
-
         loadProducts()
     }
 
