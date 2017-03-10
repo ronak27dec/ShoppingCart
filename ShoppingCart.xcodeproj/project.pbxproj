@@ -106,7 +106,6 @@
 			isa = PBXGroup;
 			children = (
 				84D49FC61E706AF500B5BD48 /* ProductCell.swift */,
-				84D49FC71E706AF500B5BD48 /* ProductCell.xib */,
 			);
 			name = Custom;
 			sourceTree = "<group>";
@@ -116,6 +115,7 @@
 			children = (
 				84D49FBA1E705D0F00B5BD48 /* ProductsViewController.xib */,
 				84D49FCF1E71439100B5BD48 /* CartViewController.xib */,
+				84D49FC71E706AF500B5BD48 /* ProductCell.xib */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -353,6 +353,7 @@
 				84D49FB81E705C7000B5BD48 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

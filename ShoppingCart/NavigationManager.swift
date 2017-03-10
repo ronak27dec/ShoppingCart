@@ -15,5 +15,4 @@ class NavigationManager: NSObject {
         let appDelegate = UIApplication.shared.delegate as! AppDelegate
         appDelegate.navigationController?.pushViewController(cart, animated: true)
     }
-
 }
