@@ -110,6 +110,7 @@ class CartManager: NSObject {
         }
     }
 
+    // need to fix this bugs soon.
     private func updateProduct(object: Cart) {
         let appDelegate = UIApplication.shared.delegate as! AppDelegate
         let context = appDelegate.persistentContainer.viewContext
